@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>The Hindu - National</title>
+    <link>http://www.thehindu.com/</link>
+    <description>RSS feed</description>
+    <language>en-us</language>
+    <copyright>Copyright 2016 The Hindu</copyright>
+    <item>
+      <link>E:\\Newsify\\ScraperService\\ScrapeEngine.Tests\\mockhtml.html</link>
+    </item>
+    <item>
+      <link>E:\\Newsify\\ScraperService\\ScrapeEngine.Tests\\mockhtml.html</link>
+    </item>
+    <item>
+      <link>E:\\Newsify\\ScraperService\\ScrapeEngine.Tests\\mockhtml.html</link>
+    </item>
+    <item>
+      <link>E:\\Newsify\\ScraperService\\ScrapeEngine.Tests\\mockhtml.html</link>
+    </item>
+  </channel>
+</rss>
